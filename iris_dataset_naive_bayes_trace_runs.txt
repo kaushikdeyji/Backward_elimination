@@ -1,0 +1,8 @@
+Sepal Width in cm dropped from the optimal attribute subset
+3 attributes remaining
+
+Petal Length in cm dropped from the optimal attribute subset
+2 attributes remaining
+
+Performance did not improve this round.
+End of Stepwise Backward Elemination.
